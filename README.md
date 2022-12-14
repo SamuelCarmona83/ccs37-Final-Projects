@@ -32,7 +32,7 @@ https://www.figma.com/file/vyaqQ1cxGbBcKlt9Y26h8V/Untitled?node-id=0%3A1&t=1GMXx
 - [@aajcs](https://github.com/aajcs)
 
 -----
-#ContaPlus+
+## ContaPlus+
 
 Es una WebApp echa para que los contadores interactuen con sus clientes, ya sea mandandole los documentos solicitados o mantiendole al dia sus documentos legales que necesitan actualizacion
 
