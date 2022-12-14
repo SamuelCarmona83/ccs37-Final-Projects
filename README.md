@@ -32,3 +32,20 @@ https://www.figma.com/file/vyaqQ1cxGbBcKlt9Y26h8V/Untitled?node-id=0%3A1&t=1GMXx
 - [@aajcs](https://github.com/aajcs)
 
 -----
+#ContaPlus+
+
+Es una WebApp echa para que los contadores interactuen con sus clientes, ya sea mandandole los documentos solicitados o mantiendole al dia sus documentos legales que necesitan actualizacion
+
+https://github.com/JulioCBC13/Proyecto-Final
+https://github.com/users/JulioCBC13/projects/3
+
+### Equipo 👯‍♂️
+
+.[@JulioCBC13](https://github.com/JulioCBC13)
+.[@jcabrera53](https://github.com/jcabrera53)
+.[@BIGOSCAR85](https://github.com/BIGOSCAR85)
+.[@Miguel-web](https://github.com/Miguel-web)
+
+
+
+
