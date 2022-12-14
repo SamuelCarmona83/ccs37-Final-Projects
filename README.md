@@ -41,10 +41,10 @@ https://github.com/users/JulioCBC13/projects/3
 
 ### Equipo 👯‍♂️
 
-.[@JulioCBC13](https://github.com/JulioCBC13)
-.[@jcabrera53](https://github.com/jcabrera53)
-.[@BIGOSCAR85](https://github.com/BIGOSCAR85)
-.[@Miguel-web](https://github.com/Miguel-web)
+-[@JulioCBC13](https://github.com/JulioCBC13)
+-[@jcabrera53](https://github.com/jcabrera53)
+-[@BIGOSCAR85](https://github.com/BIGOSCAR85)
+-[@Miguel-web](https://github.com/Miguel-web)
 
 
 
