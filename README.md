@@ -21,7 +21,7 @@ https://github.com/users/vgguarino/projects/1/views/1
 
 Web App estilo foro, donde se dedique a la donacion de medicamentos, e intercambio de medicamentos en el pais, y ayudar a los que mas lo necesitan, donde el usuario podra tener su cuenta, registrarse y loguearse, enviar y crear un post de los medicamentos necesitados, mas que todo con el fin de ayudar en momentos criticos del dia a dia en el area de salud. 
 
-https://github.com/josmar4569/Donamedicamentos
+https://github.com/josmar4569/Life-For-All
 https://trello.com/b/KXka2dgm/4geeks-proyecto-3
 https://www.figma.com/file/vyaqQ1cxGbBcKlt9Y26h8V/Untitled?node-id=0%3A1&t=1GMXxVPEFk5xsfLi-0
 
